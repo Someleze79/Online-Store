@@ -6,14 +6,14 @@ A modern *Online Store application* built with *React*, designed to simulate a r
 
 ## 🚀 Features
 
-- Product Listing – Browse products displayed using reusable components  
-- Add to Cart – Add products to the shopping cart  
-- Remove from Cart – Remove items from the cart  
-- Quantity Management – Adjust product quantities dynamically  
-- Total Price Calculation – Automatically updates the cart total  
-- User Authentication – Login and logout functionality  
-- Multi-Page Navigation – Smooth routing between pages  
-- Responsive Design – Optimized for desktop and mobile devices  
+- *Product Listing* – Browse products displayed using reusable components  
+- *Add to Car*t – Add products to the shopping cart  
+- *Remove from Cart* – Remove items from the cart  
+- *Quantity Management* – Adjust product quantities dynamically  
+- *Total Price Calculation* – Automatically updates the cart total  
+- *User Authentication* – Login and logout functionality  
+- *Multi-Page Navigation* – Smooth routing between pages  
+- *Responsive Design* – Optimized for desktop and mobile devices  
 
 ---
 
@@ -29,6 +29,10 @@ A modern *Online Store application* built with *React*, designed to simulate a r
 ## 📂 Project Structure
 
 src/ │ ├── components/ │   ├── ProductCard.js │   ├── Cart.js │   ├── Navbar.js │   └── Footer.js │ ├── pages/ │   ├── Home.js │   ├── Products.js │   ├── Login.js │   └── About.js │ ├── App.js └── index.js
+
+*(Structure may vary slightly depending on implementation)*
+
+---
 
 ## 🛠️ Installation & Setup
 
