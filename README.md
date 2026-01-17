@@ -22,7 +22,8 @@ A modern *Online Store application* built with *React*, designed to simulate a r
 - *React* – Component-based UI development  
 - *React Router* – Page navigation and routing  
 - *JavaScript (ES6+)* – Application logic  
-- *Bootstrap / CSS* – Styling and responsive layout  
+- *Bootstrap / CSS* – Styling and responsive layout
+- *HTML* – Application structure
 
 ---
 
